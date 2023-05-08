@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif ;
+}
+head{
+    font-weight: bold;
+}
+body{
+    background-color: rgb(15, 15, 15);
+    color: white;
+}
+h1,img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    margin-left: 20px;
+}
+.videozao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+}
+.principal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    font-size: large;
+    color: red;
+    margin-left: 20px;
+}
+li{
+    margin-bottom: 0.5rem;
+}
