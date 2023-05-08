@@ -1,0 +1,116 @@
+HTML:
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>The Blacklist</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+    <h1>Série The Blacklist</h1>
+    <div class="fotinhas">
+    <img  style="width: 1000px;" src="BlackList.jpg" alt="imagem da série The Blacklist" usemap="#mapedit">
+    <map name="mapedit">
+        <area shape="rect" coords="49,2,922,1012" title="Raymond Reddington" href="https://www.youtube.com/watch?v=iSiqmV13Ffk" target="_blank">
+    </map>
+    </div>
+    </header>
+
+    <main>
+    <h2>Sinopse da série:</h2>
+        <p>
+            A história de The Blacklist começa quando Raymond Reddington (Spader), o criminoso foragido mais procurado pelo FBI, decide se entregar às autoridades por vontade própria. Após a captura, ele revela que outro bandido acabou de desembarcar no país. Com a condição de que a agente Elizabeth Keen (Boone) seja a intermediária da operação, ele promete ajudar o FBI a prendê-lo. O pedido é atendido pelas autoridades e Reddington revela o plano traçado pelo criminoso para sequestrar a filha de um poderoso militar americano.
+
+Além deste primeiro caso, Reddington também oferece uma colaboração a longo prazo com o FBI em troca de um pacote severo de imunidade. Segundo ele, ao longo de vinte anos ele cultivou uma lista, apelidada por ele mesmo de blacklist (lista negra), com nomes de políticos, mafiosos, hackers e espiões que ele pode ajudar a entregar. Começa assim uma colaboração duradoura entre ele, Elizabeth Keen e o FBI, focada em caçar os verdadeiros chefões do crime.   
+        </p>
+        <h2>Porque Assistir?</h2>
+        <h2>Construção da Estória</h2>
+        <p>
+            Vários profissionais são envolvidos em produções grandes e com o nível de ação que a série aborda. Desde o primeiro episódio, tudo é impecável, tirando alguns exageros comuns. Jon e todas sua equipe conseguiram criar realmente uma estória empolgante repleta de tiros, explosões e mortes. Se comparado à outras séries e filmes, The Blacklist é, sem dúvida, uma das melhores séries de espionagem/ação dos últimos tempos.
+        </p>
+        <h2>Preparação dos personagens</h2>
+        <p>
+            A escolha para os personagens de séries e filmes são sempre bem planejadas. Muitas vezes o resultado não é o esperado pelos fãs, mas de algum modo os produtores sempre sabem o que estão fazendo quando a série é uma super produção de um canal de TV com bons recursos financeiros.
+
+Esta, em especial, possui uma bagagem brilhante no ramo da atuação. Todos possuem uma boa experiência com produções cinematrográficas, desde comédias românticas (toscas, por sinal) e boas produções de Hollywood.
+
+Em 2014, a série ganhou um Globo de Ouro de Melhor Coordenação de Dublês em uma série, minissérie ou filme Dramático pelo trabalho de Cort Hessler, coordenador de dublês da série. O prêmio reflete exatamente o trabalho de todos os dublês para termos uma série muito boa visualmente.
+        </p>
+        <h2>Ações do governo, da iniciativa privada e do 3º setor nos efeitos catastróficos da série</h2>
+        <p> Ninguém é inocente nesta série. Após conhecer melhor os planos de Reddington, toda a equipe da Divisão de Operações Especiais do FBI descobre o quanto o próprio Governo, ativistas e empresas privadas são capazes para adquirir mais poder. Ou para por em prática o que acham correto.
+
+            Cada “vilão” apresentado nos episódios está, de alguma forma, conectado com um plano maior. E é isto o que torna a série bem atrativa. Não é somente ação de criaturas emocionalmente perturbadas, é todo o processo de conhecer, ver a ação do “vilão” acontecer e pensar em como detê-lo. Para ser mais específico, estes três grandes setores, que são a base da sociedade, escondem mentiras e ninguém está disposto a pagar o preço sozinho quando uma delas é descoberta.</p>
+        <h2>A conexão de Red e Liz</h2>
+        <p>
+            O seriado todo é sobre esta dupla. Claro, há abertura para explorar os demais personagens, mas basicamente todas as estórias têm como foco a relação de Red e Liz. Ela acaba não gostando dessa aproximação de Red por bagunçar sua vida entre as duas primeiras temporadas. E  ao final da segunda temporada acontece uma reviravolta na estória que faz Liz aceitar a ajuda e os conselhos de Red. Tudo o que sabemos até o início da terceira temporada é: Red ama muito a Liz, mas o por que deste amor paternal é desconhecido.
+        </p>
+        <h2>Excelente trilha sonora</h2>
+        <p>
+            E é claro que um dos fatores para a série ser brilhante é a sua trilha sonora. Todos os episódios há clássicos da música internacional. Há também aquelas músicas que você nunca ouviu e fica viciado pela adrenalina que a série passa. As séries de ação geralmente dão preferência para canções sem letras, para não distrair o público. Já a marca das séries adolescentes costuma utilizar muitas músicas do cenário pop.
+        </p>
+            <section>
+            <div>
+
+            </div><hr>
+            <h1>Trailer</h1>
+            <div class="videozao">
+                <video src="Trailer.mp4" controls></video>
+            </div>
+            <h2>Onde assistir</h2>
+            <div class="fotinhas"><img src="Netflix.png" style="width: 200px;" usemap="#mymap">
+            <map name="mymap">
+            <area shape="rect" coords="0,4,1435,814" title="Netflix" href="https://www.netflix.com/br/title/70281312" target="_blank">
+            </map></div><hr>
+        <h2>Principais Atores</h2>
+        <ul>                                                                                                
+        <li>            <a href="https://pt.wikipedia.org/wiki/James_Spader" target="_blank">James Spader(Raymond Reddington)</a><br></li>
+        <li>        <a href="https://pt.wikipedia.org/wiki/Megan_Boone" target="_blank">Megan Boone(Elizabeth Keen)</a><br></li>
+        <li>        <a href="https://pt.wikipedia.org/wiki/Ryan_Eggold" target="_blank">Ryan Eggold(Tom Keen)</a><br></li>
+        <li>        <a href="https://pt.wikipedia.org/wiki/Diego_Klattenhoff" target="_blank">Diego Klattenhoff(Donald Ressler)</a><br></li>
+        <li>        <a href="https://pt.wikipedia.org/wiki/Harry_Lennix" target="_blank">Harry Lennix(Harold Cooper)</a><br></li>
+        <li>        <a href="https://en.wikipedia.org/wiki/Hisham_Tawfiq" target="_blank">Hisham Tawfiq(Dembe Zuma)</a><br></li>
+        <li>        <a href="https://pt.wikipedia.org/wiki/Amir_Arison" target="_blank">Amir Arison(Aram Mojtabai)</a><br></li>
+        <li>        <a href="https://en.wikipedia.org/wiki/Deirdre_Lovejoy" target="_blank">Deirdre Lovejoy(Cynthia Panabaker)</a><br></li>
+                </ul><hr><hr>              
+    </main>
+
+    <footer>
+    <h4>Site feito por Marcos de Lima Prado</h4>
+    </footer>
+
+
+</body>
+</html>
+--------------------------------------------------------------------------------------------------
+CSS:
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif ;
+}
+body{
+    background-color: rgb(15, 15, 15);
+    color: white;
+}
+h1,h2,img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.videozao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fotinhas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+}
